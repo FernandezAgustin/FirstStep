@@ -1,7 +1,5 @@
 import java.util.*;
 
-import static javax.swing.JOptionPane.WARNING_MESSAGE;
-
 public class historiaDeRol {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
