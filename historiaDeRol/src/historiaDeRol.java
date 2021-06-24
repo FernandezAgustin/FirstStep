@@ -120,10 +120,10 @@ public class historiaDeRol {
                         } else if (elegir > correr && i != 2) {
                             System.out.println("Estas equivocado, intentá con un número mas bajo!");
                         } else if (elegir == correr && i != 2) {
-                            System.out.println("Acertaste! La adrenalina te invade y corres tan rápido que llegas a tiempo \npara cubrirte en los escombros... \n El dragon dispara una llamarada tan intensa que derrite todo..TODO!\nNo quedan rastros de los escombros ni de ti... moriste tan rápido que no hubo dolor. FIN");
+                            System.out.println("Acertaste! La adrenalina te invade y corres tan rápido que llegas a tiempo \npara cubrirte en los escombros... \nEl dragon dispara una llamarada tan intensa que derrite todo..TODO!\nNo quedan rastros de los escombros ni de ti... moriste tan rápido que no hubo dolor. FIN");
                             break;
                         } else if (elegir != correr && i == 2) {
-                            System.out.println("Fallaste! La adrenalina te invade y corres tan rápido que llegas a tiempo \npara cubrirte en los escombros... \n El dragon dispara una llamarada tan intensa que derrite todo..TODO!\nNo quedan rastros de los escombros ni de ti... moriste tan rápido que no hubo dolor. FIN");
+                            System.out.println("Fallaste! La adrenalina te invade y corres tan rápido que llegas a tiempo \npara cubrirte en los escombros... \nEl dragon dispara una llamarada tan intensa que derrite todo..TODO!\nNo quedan rastros de los escombros ni de ti... moriste tan rápido que no hubo dolor. FIN");
                             break;
                         }
 
